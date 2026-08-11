@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 80" width="400" height="80">
+  <rect width="400" height="80" fill="none"/>
+  <circle cx="40" cy="40" r="26" fill="#1f5c4c"/>
+  <text x="40" y="48" font-family="Georgia, serif" font-size="24" font-weight="bold" fill="#ffffff" text-anchor="middle">F</text>
+  <text x="80" y="36" font-family="'Georgia', 'Yu Mincho', serif" font-size="20" font-weight="bold" fill="#172028" letter-spacing="1">Fukushima英語塾</text>
+  <text x="80" y="56" font-family="sans-serif" font-size="12" font-weight="600" fill="#1f5c4c" letter-spacing="2">文京区・東大前｜マンツーマン専門指導</text>
+</svg>

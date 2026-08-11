@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 700" width="600" height="700">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1f5c4c"/>
+      <stop offset="100%" stop-color="#0f342a"/>
+    </linearGradient>
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.05"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="700" rx="24" fill="url(#bgGrad)"/>
+  <circle cx="500" cy="100" r="180" fill="none" stroke="#c99555" stroke-width="2" opacity="0.25"/>
+  <circle cx="500" cy="100" r="230" fill="none" stroke="#ffffff" stroke-width="1" opacity="0.15"/>
+  <rect x="50" y="50" width="500" height="480" rx="16" fill="url(#cardGrad)" stroke="rgba(255,255,255,0.2)" stroke-width="2"/>
+  <g transform="translate(180, 110)">
+    <path d="M120 40 C60 40 45 80 45 130 C45 160 55 190 70 210 C65 240 50 270 20 290 C70 295 100 270 110 240 C130 240 180 230 195 170 C205 130 180 40 120 40 Z" fill="#ffffff" opacity="0.85"/>
+    <ellipse cx="120" cy="115" rx="42" ry="50" fill="#f8f4ed"/>
+    <path d="M100 165 Q120 185 140 165" stroke="#1f5c4c" stroke-width="3" fill="none" opacity="0.4" stroke-linecap="round"/>
+    <circle cx="105" cy="110" r="16" fill="none" stroke="#1f5c4c" stroke-width="3" opacity="0.7"/>
+    <circle cx="138" cy="110" r="16" fill="none" stroke="#1f5c4c" stroke-width="3" opacity="0.7"/>
+    <line x1="121" y1="110" x2="122" y2="110" stroke="#1f5c4c" stroke-width="3" opacity="0.7"/>
+    <path d="M30 260 Q120 220 210 260 L240 330 L0 330 Z" fill="#c99555" opacity="0.9"/>
+  </g>
+  <rect x="70" y="470" width="460" height="44" rx="8" fill="#ffffff" opacity="0.95"/>
+  <text x="300" y="498" font-family="'Hiragino Kaku Gothic ProN', 'Yu Gothic', sans-serif" font-size="16" font-weight="bold" fill="#1f5c4c" text-anchor="middle">講師：福島 千恵子（Fukushima Chieko）</text>
+  <text x="300" y="570" font-family="'Georgia', serif" font-size="20" font-weight="bold" fill="#ffffff" text-anchor="middle" letter-spacing="1">ICU卒 / 大手商社勤務 10年 / 英検1級 / 通訳案内士</text>
+  <text x="300" y="605" font-family="'Hiragino Kaku Gothic ProN', sans-serif" font-size="15" fill="#e2efe9" text-anchor="middle">シドニー・マッコーリー大学院 通訳翻訳専科修了</text>
+  <text x="300" y="640" font-family="'Hiragino Kaku Gothic ProN', sans-serif" font-size="13" fill="#c99555" text-anchor="middle">※ 実際の講師写真に差し替えてご使用いただけます</text>
+</svg>
